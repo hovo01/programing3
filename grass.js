@@ -31,7 +31,7 @@ class Grass {
         }
         return found;
     }
-    
+    /*adfsasdf*/
     bazmanal(){
         
         this.direction = random(this.yntrelVandak(0));
